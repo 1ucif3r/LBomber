@@ -35,12 +35,18 @@
 
 ```bash
 cd LBomber
+chmod +x *
 ./LBomber.sh
 ```  
 ## Installation [Termux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
+apt-get install cowsay
 cd LBomber
+chmod +x *
+cd Core
+cp bomber.py /data/data/com.termux/files/usr/etc/bomber.py
+cd ..
 ./LBomber.sh
 ```    
   
