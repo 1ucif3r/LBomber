@@ -51,7 +51,7 @@ banner() {
     echo 'This LBomber Was Created By 1ucif3r' | lolcat
     echo 'For Any Queries Contact Me!!!'| lolcat
     echo 'Intagram:- https://www.instagram.com/th3_1ucif3r/'| lolcat
-    echo 'Website:- https://hritikkumbhar.me'| lolcat
+    echo 'Website:- https://1ucif3r.me'| lolcat
     echo ' '| lolcat
     echo 'Please use for Educational Purpose only!!!'| lolcat
     echo ' '| lolcat
