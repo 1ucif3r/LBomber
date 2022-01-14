@@ -50,7 +50,7 @@ banner() {
     fi
     echo 'This LBomber Was Created By 1ucif3r' | lolcat
     echo 'For Any Queries Contact Me!!!'| lolcat
-    echo 'Intagram:- https://www.instagram.com/th3_1ucif3r/'| lolcat
+    echo 'Intagram:- https://www.instagram.com/0x1ucif3r/'| lolcat
     echo 'Website:- https://1ucif3r.me'| lolcat
     echo ' '| lolcat
     echo 'Please use for Educational Purpose only!!!'| lolcat
@@ -239,8 +239,8 @@ do
         echo 'This LBomber Was Created By Hritik Kumbhar (1ucif3r)' | lolcat
         echo 'For Any Queries Contact Me!!!'| lolcat
 	echo 'Github:- https://github.com/1ucif3r'
-        echo 'Intagram:- https://www.instagram.com/th3_1ucif3r/'| lolcat
-        echo 'Website:- https://hritikkumbhar.in/'| lolcat
+        echo 'Intagram:- https://www.instagram.com/0x1ucif3r/'| lolcat
+        echo 'Website:- https://1ucif3r.in/'| lolcat
         echo ' '| lolcat
         pause
  
@@ -266,8 +266,8 @@ do
 	echo -e "\e[4;31m Thank You !!!\e[0m"| lolcat
 	echo -e "\e[4;34m This Bomber Was Created By 1ucif3r \e[0m" | lolcat
 	echo -e "\e[1;34m For Any Queries Contact Me!!!\e[0m"| lolcat
-	echo -e "\e[1;32m   Intagram:- th3_1ucif3r\e[0m"| lolcat
-	echo -e "\e[4;32m   Website:- https://hritikkumbhar.in/ \e[0m"| lolcat
+	echo -e "\e[1;32m   Intagram:- 0x1ucif3r\e[0m"| lolcat
+	echo -e "\e[4;32m   Website:- https://1ucif3r.in/ \e[0m"| lolcat
         exit
     elif [ $ch -eq 0 ];then
         banner
