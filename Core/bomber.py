@@ -290,7 +290,7 @@ The uses of LBomber -
 
 LBomber is not intented for malicious uses.
 """
-parser = argparse.ArgumentParser(description=description,epilog='Coded by SpeedX !!!')
+parser = argparse.ArgumentParser(description=description,epilog='Coded by 1ucif3r !!!')
 parser.add_argument("-sms","--sms", action="store_true",help="Sms Bomber")
 #parser.add_argument("-call","--call", action="store_true",help="Call Bomber")
 parser.add_argument("-mail","--mail", action="store_true",help="Mail Bomber")
